@@ -1,0 +1,12 @@
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\bin\Debug\Assignement.exe.config
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\bin\Debug\Assignement.exe
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\bin\Debug\Assignement.pdb
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\obj\Debug\Assignement.csprojResolveAssemblyReference.cache
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\obj\Debug\Assignement.exe
+c:\users\tiberius\documents\visual studio 2013\Projects\Assignement\Assignement\obj\Debug\Assignement.pdb
+C:\Users\Connor\Desktop\Assignement\Assignement\bin\Debug\Assignement.exe.config
+C:\Users\Connor\Desktop\Assignement\Assignement\obj\Debug\Assignement.exe
+C:\Users\Connor\Desktop\Assignement\Assignement\obj\Debug\Assignement.pdb
+C:\Users\Connor\Desktop\Assignement\Assignement\obj\Debug\Assignement.csprojResolveAssemblyReference.cache
+C:\Users\Connor\Desktop\Assignement\Assignement\bin\Debug\Assignement.exe
+C:\Users\Connor\Desktop\Assignement\Assignement\bin\Debug\Assignement.pdb
